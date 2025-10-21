@@ -1,5 +1,5 @@
 ## Hi there
-this is my first repository
+this is my first repository.
 
 <!--
 **Harshar17/Harshar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
